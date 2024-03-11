@@ -1,0 +1,23 @@
+/*
+Theme Name: NINOseg Web
+Theme URI: https://ninoseg.com.br
+Description: Website desenvolvido por NINOseg Web.
+Author: Lucas
+Author URI: https://ninoseg.com.br
+Template: oceanwp
+Version: 1.0
+*/
+
+/* Parent stylesheet should be loaded from functions.php not using @import */
+
+
+
+
+
+h2 {
+    font-family: PT Sans;
+    font-weight: 700;
+    font-size: 70px;
+    color: #000000;
+    line-height: 1.5;
+}
